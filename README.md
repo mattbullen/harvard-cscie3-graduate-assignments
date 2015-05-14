@@ -4,7 +4,7 @@ A significant part of the graduate student work for the Spring 2015 CSCI E-3 Jav
 
 ##### I wrote these p-sets:
 
-HTML5 \<canvas\> Element: http://jsfiddle.net/bullen/6om51wqd/5/
+HTML5 `<canvas>` Element: http://jsfiddle.net/bullen/6om51wqd/5/
 
 jQuery Selectors: http://jsfiddle.net/bullen/k8u1gs0t/1/
 
